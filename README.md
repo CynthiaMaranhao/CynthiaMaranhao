@@ -1,5 +1,5 @@
 ### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
-![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E)
+![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
 <!--
 **CynthiaMaranhao/CynthiaMaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <center>
