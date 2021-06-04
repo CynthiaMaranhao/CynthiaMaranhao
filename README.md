@@ -1,6 +1,6 @@
-### Texto de boas vindas <img src="cover1" width="30px"></h2>
+<h2> Olá!! Boas vindas <img src="images/Hi.gif" width=30%></h2>
 
-<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+<img src="images/coverz.png" width=30%>
 
 
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
