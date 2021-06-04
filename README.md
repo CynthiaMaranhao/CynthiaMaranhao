@@ -24,5 +24,5 @@
    </br> 
     
 <h2> 💻 Repositórios </h2>
-<a href="Ciencia-da-computacao-Estacio"> src="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio"></a>
-<a href="FGV-BigData"> src="https://github.com/CynthiaMaranhao/FGV-BigData"></a>
+- Ciencia-da-computacao-Estacio <a href="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio"></a>
+- FGV-BigData <a href="https://github.com/CynthiaMaranhao/FGV-BigData"></a>
