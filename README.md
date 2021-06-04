@@ -21,10 +21,9 @@
 <a href="mailto:mailtomecynthia.maranhao@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-    
+   </br> 
     
 <h2> 💻 Repositórios </h2>
------------------------ 
 * [Ciencia-da-computacao-Estacio](https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio)
 * [FGV-BigData](https://github.com/CynthiaMaranhao/FGV-BigData)
     
