@@ -1,4 +1,4 @@
-### Texto de boas vindas <img src="cover" width="30px"></h2>
+<h2>Texto de boas vindas <img src="cover" width="30px"></h2>
 
     
 
@@ -18,12 +18,9 @@
 
 - 🌱 I’m currently learning ...
 
- 
+<h2>Para entrar em contato comigo: <img src="cover" width="30px"></h2>
 <a href="https://www.linkedin.com/in/CynthiaMaranhao/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
- <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="mailto:mailtomecynthia.maranhao@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
