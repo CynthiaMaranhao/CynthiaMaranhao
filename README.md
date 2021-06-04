@@ -22,8 +22,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
     
-    Repositórios 
+    
+<h2> 💻 Repositórios </h2>
 ----------------------- 
-[Ciencia-da-computacao-Estacio](https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio)
-[FGV-BigData](https://github.com/CynthiaMaranhao/FGV-BigData)
+* [Ciencia-da-computacao-Estacio](https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio)
+* [FGV-BigData](https://github.com/CynthiaMaranhao/FGV-BigData)
     
