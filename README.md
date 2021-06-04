@@ -1,4 +1,4 @@
-### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
+### Texto de boas vindas <img src="cover1" width="30px"></h2>
 
 <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
