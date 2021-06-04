@@ -1,5 +1,5 @@
 <h2> Olá!! Boas vindas 👋 <h2>
-<img src="Images/cover2.png">
+<img src="Images/banner.png">
 
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
 
