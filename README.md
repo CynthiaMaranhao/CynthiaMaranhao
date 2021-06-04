@@ -14,14 +14,8 @@
 </center> 
 
 - 🌱 I’m currently learning ...
+</br>
 
-## Para entrar em contato comigo: 📱 
-<a href="https://www.linkedin.com/in/CynthiaMaranhao/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-<a href="mailto:mailtomecynthia.maranhao@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-   </br> 
     
 ## 💻 Repositórios 
 - <a href="https://github.com/CynthiaMaranhao/Aulas">Aulas</a> </br>   
@@ -31,3 +25,11 @@
 - <a href="https://github.com/CynthiaMaranhao/Projetos-Gerais">Projetos-Gerais</a> </br>   
 - <a href="https://github.com/CynthiaMaranhao/python-html-css">python-html-css</a> </br>   
 
+</br>
+## Para entrar em contato comigo: 📱 
+<a href="https://www.linkedin.com/in/CynthiaMaranhao/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="mailto:mailtomecynthia.maranhao@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+   </br> 
