@@ -1,4 +1,4 @@
-<h2>Texto de boas vindas </h2>
+<h2>Olá, sejam bem vindos!!!  </h2>
 <img src="Images/banner">
     
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ...
 
-<h2>Para entrar em contato comigo: </h2>
+<h2>Para entrar em contato comigo: 📱 </h2>
 <a href="https://www.linkedin.com/in/CynthiaMaranhao/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 <a href="mailto:mailtomecynthia.maranhao@gmail.com">
