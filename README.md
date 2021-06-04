@@ -24,5 +24,10 @@
    </br> 
     
 ## 💻 Repositórios 
-- <a href="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio">Ciencia-da-computacao-Estacio</a>   
-- FGV-BigData <a href="https://github.com/CynthiaMaranhao/FGV-BigData"></a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/Aulas">Aulas</a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio">Ciencia-da-computacao-Estacio</a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/FGV-BigData">FGV-BigData</a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/Projetos">Projetos</a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/Projetos-Gerais">Projetos-Gerais</a> </br>   
+- <a href="https://github.com/CynthiaMaranhao/python-html-css">python-html-css</a> </br>   
+
