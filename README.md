@@ -1,4 +1,4 @@
-<h2>Olá, sejam bem vindos!!!  </h2>
+<h2>📊 Olá, sejam bem vindos 📊 !!! :wave:  </h2>
 <img src="Images/banner">
     
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
