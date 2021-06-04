@@ -1,6 +1,6 @@
 <h2>📊 Olá, sejam bem vindos 📊 !!! :wave:  </h2>
 
-<img src="Images/banner.png">
+<img src="Images/banner.png" size=80%>
     
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
 
