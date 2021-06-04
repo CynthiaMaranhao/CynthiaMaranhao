@@ -1,4 +1,4 @@
-<h2>📊 Olá, sejam bem vindos 📊 !!! :wave:  </h2>
+## 📊 Olá, sejam bem vindos 📊 !!! :wave: 
 
 <img src="Images/banner.png" size=80%>
     
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning ...
 
-<h2>Para entrar em contato comigo: 📱 </h2>
+## Para entrar em contato comigo: 📱 
 <a href="https://www.linkedin.com/in/CynthiaMaranhao/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 <a href="mailto:mailtomecynthia.maranhao@gmail.com">
@@ -23,6 +23,6 @@
 </a>
    </br> 
     
-<h2> 💻 Repositórios </h2>
-- Ciencia-da-computacao-Estacio <a href="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio"></a>
-- FGV-BigData <a href="https://github.com/CynthiaMaranhao/FGV-BigData"></a>
+## 💻 Repositórios 
+- Ciencia-da-computacao-Estacio <a href="https://github.com/CynthiaMaranhao/Ciencia-da-computacao-Estacio"></a> </br>
+- FGV-BigData <a href="https://github.com/CynthiaMaranhao/FGV-BigData"></a> </br>   
