@@ -26,6 +26,7 @@
 - <a href="https://github.com/CynthiaMaranhao/python-html-css">python-html-css</a> </br>   
 
 </br>
+
 ## Para entrar em contato comigo: 📱 
 <a href="https://www.linkedin.com/in/CynthiaMaranhao/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
