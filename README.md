@@ -1,4 +1,4 @@
-<h2> Olá!! Boas vindas <img src="images/Hi.gif" width=30%></h2>
+<h2> Olá!! Boas vindas <h2>👋
 <img src="images/cover2.png" width=30%>
 
 ![](https://komarev.com/ghpvc/?username=CynthiaMaranhao&color=C1374E&style=plastic)
